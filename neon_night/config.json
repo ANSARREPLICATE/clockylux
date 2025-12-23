@@ -1,6 +1,6 @@
 {
-    "id": "classic_black",
-    "name": "Classic Black",
+    "id": "neon_night",
+    "name": "neon_night",
     "author": "Floating Clock",
     "behavior": {
         "showSecondHand": true,
