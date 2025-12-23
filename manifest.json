@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "faces": [
+        {
+            "id": "neon_night",
+            "name": "Neon Night",
+            "author": "CyberPunk",
+            "preview": "neon_night/preview.png",
+            "price": "Free"
+        }
+    ]
+}

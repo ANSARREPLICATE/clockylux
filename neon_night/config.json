@@ -1,0 +1,26 @@
+{
+    "id": "classic_black",
+    "name": "Classic Black",
+    "author": "Floating Clock",
+    "behavior": {
+        "showSecondHand": true,
+        "smoothSecond": true
+    },
+    "layers": {
+        "dial": {
+            "z": 1
+        },
+        "hour": {
+            "z": 10,
+            "scale": 1
+        },
+        "minute": {
+            "z": 11,
+            "scale": 1
+        },
+        "second": {
+            "z": 12,
+            "scale": 1
+        }
+    }
+}
